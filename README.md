@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @onemorecosplay
-- 👀 I’m interested in business process automation (BPA)
-- 🌱 I’m currently learning C+, Python, JavaScript
-- 📫 How to reach me: shakhsaidovich@gmail.com
+- 👀 Business process automation (BPA)
+- 🌱 Currently learning: C+, Python, JavaScript
+- 📫 shakhsaidovich@gmail.com
 
 <!---
 onemorecosplay/onemorecosplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
